@@ -9,3 +9,5 @@ Currently bypasses Windows Defender 10 + 11.
 
 
 Indirect Syscall stub from https://github.com/ProcessusT/SharpVenoma
+
+You can also use WriteProcessMemory Instead of Marshal.
